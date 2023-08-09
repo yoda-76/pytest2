@@ -3,4 +3,3 @@ dateparser
 twine
 Flask
 Gunicorn
-DeltaRestClient
